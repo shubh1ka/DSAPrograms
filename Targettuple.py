@@ -7,6 +7,6 @@ def res(l1,n1):
 
 if __name__ == "__main__":
     l1=list(map(int,input().split()))
-    n1=input()
+    n1=int(input())
     print(res(l1,n1))
 
